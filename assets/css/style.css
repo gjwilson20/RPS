@@ -1,8 +1,36 @@
 .header{
     text-align: center;
-    height: 60px;
+    height: 10px;
 }
 
-.logo{
-    position: absolute;
+
+/* styling to player and computer areas*/
+
+.player{
+    background-color: lightgreen;
+    float: left;
+    width:40%
+}
+
+#player-image{
+    width:70%;
+}
+.computer{
+    background-color: lightpink;
+    float: right;
+    width:40%
+}
+
+#computer-image{
+    width:70%;
+}
+
+
+/*game area styling*/
+.game-area{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 6%;
+    text-align: center;
 }
