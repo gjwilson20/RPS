@@ -4,19 +4,15 @@
 }
 
 .footer{
-    position:absolute;
+    position: fixed;
     width:100%;
     left:0;
     bottom:0;
     text-align:center;
-    min-height: 70px;
+    min-height: 50px;
     box-sizing: border-box;
     padding-top: 7px;
-    background-color: rgba(119, 136, 153, 0.434);
-}
-
-.body{
-    padding-bottom: 70px;
+    background-color: rgb(181, 182, 184);
 }
 
 
@@ -54,4 +50,5 @@ button{
     margin-right:auto;
     margin-top: 6%;
     text-align: center;
+    height: 600px;
 }
