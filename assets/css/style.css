@@ -52,3 +52,11 @@ button{
     text-align: center;
     height: 600px;
 }
+
+.rpsChoice{
+    display:flex;
+    width:20vw;
+    height:20vw;
+    justify-content:center;
+    margin:20px;
+}
