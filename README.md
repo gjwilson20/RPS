@@ -2,7 +2,7 @@
 
 Rock Paper Scissors is a site that aims to be a player VS computer game using JavaScript to be responsive. The site is targetted at people who love to play games.
 
-![Responsice Mockup]()
+(images/RPSmockup.png)
 
 ## Features 
 
